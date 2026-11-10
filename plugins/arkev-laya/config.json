@@ -1,0 +1,25 @@
+{
+  "name": "ARKEV Laya",
+  "guid": "asc.{32C87693-738B-4A6C-9FAE-B8108A0DA136}",
+  "version": "1.0.0",
+  "baseUrl": "",
+  "variations": [
+    {
+      "description": "Laya reads the open document and applies her edits live (ARKEV).",
+      "url": "index.html",
+      "icons": ["icon.png", "icon.png"],
+      "isViewer": false,
+      "EditorsSupport": ["word", "cell", "slide"],
+      "type": "system",
+      "isSystem": true,
+      "isVisual": false,
+      "isModal": false,
+      "isInsideMode": false,
+      "initDataType": "none",
+      "initData": "",
+      "isUpdateOleOnResize": false,
+      "buttons": [],
+      "events": []
+    }
+  ]
+}
